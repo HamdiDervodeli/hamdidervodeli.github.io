@@ -3,6 +3,7 @@ body {
     margin: 0;
     font-family: 'Poppins';
     font-size: 22px;
+    text-align: justify;
 }
 
 .navbar {
